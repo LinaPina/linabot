@@ -5,5 +5,5 @@
     "LEARN ABOUT LINA":"I can tell you a bunch of stuff about Lina. Let me know what's interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nWhen you're ready you can always say 'contact' to talk to Lina. %[Contact](postback:contact)",
     "CHILDHOOD":"Lina has been growing up across cultures, languages and religions. \nBorn in Baku, she did not stay long in Azerbaijan. %[Why not?](postback:why not?)",
     "WHY NOT?":"![baku](https://raw.githubusercontent.com/LinaPina/linabot/master/img/baku.jpg)\nHer parents moved to Russia to start a PhD and lived in Moscow since. \nAs an immigrant child Lina was not eligible for a free school education. \nHowever, she studied hard and got into one of the most prominent German international schools in Moscow.\nBtw if you ever want to chat about something else, just say 'more'.%[Why German?!](postback:why german?!)"
-    "WHY GERMAN?!": "Dad loves Wagner. He was also working closely with Germany at some point. \nNot sure what had a more significant impact."
+    "WHY GERMAN?!":"Dad loves Wagner. He was also working closely with Germany at some point. \nNot sure what had a more significant impact."
 }

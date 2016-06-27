@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Lina, a passionate pipinis from Moscow.\n![lina](https://raw.githubusercontent.com/LinaPina/linabot/master/img/elina.jpg)\nWant to learn about Lina? %[Learn about Lina](postback:learn_about_lina) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Lina, a passionate pipinis from Moscow.\n![lina](https://raw.githubusercontent.com/LinaPina/linabot/master/img/elina.jpg)\nWant to learn about Lina? %[Learn about Lina](postback:learn_about_lina) %[One random fact!](postback:random_fact) case:learn_about_lina "lalalalalala",
     "HELLO": "Hi there!\nI’m the personal bot of Lina, a passionate pipinis from Moscow.\n![lina](https://raw.githubusercontent.com/LinaPina/linabot/master/img/elina.jpg)\nWant to learn about Lina? %[Learn about Lina](postback:learn_about_lina) %[One random fact!](postback:random_fact)",
     "HI": "Hi there!\nI’m the personal bot of Lina, a passionate pipinis from Moscow.\n![lina](https://raw.githubusercontent.com/LinaPina/linabot/master/img/elina.jpg)\nWant to learn about Lina? %[Learn about Lina](postback:learn_about_lina) %[One random fact!](postback:random_fact)",
     "CONTACT": "Let's write Lina a message or email to contact her: %[Email Lina](http://bit.ly/estherbot-tweet) %[Write Lina on FB](http://bit.ly/estherbot-tweet)",

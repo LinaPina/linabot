@@ -4,7 +4,6 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "LEARN ABOUT LINA":"I can tell you a bunch of stuff about Lina. Let me know what's interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nWhen you're ready you can always say 'contact' to talk to Lina. %[Contact](postback:contact)",
     "CHILDHOOD":"Lina has been growing up across cultures, languages and religions. \nBorn in Baku, she did not stay long in Azerbaijan. %[Why not?](postback:why not)",
-    "WHY NOT":"lalalal"
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, LinaBot is back."
 }

@@ -4,7 +4,6 @@
     "HI": "Hi there!\nI’m the personal bot of Lina, a passionate pipinis from Moscow.\n![lina](https://raw.githubusercontent.com/LinaPina/linabot/master/img/elina.jpg)\nWant to learn about Lina? %[Learn about Lina](postback:learn_about_lina) %[One random fact!](postback:random_fact)",
     "CONTACT": "Let's write Lina a message or email to contact her: %[Email Lina](http://bit.ly/estherbot-tweet) %[Write Lina on FB](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "Learn about Lina":"lalalaalalal",
     "LEARN ABOUT LINA":"lalalaalalal",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, LinaBot is back."

@@ -6,13 +6,4 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, LinaBot is back."
-    
-    
-    "trigger": "learn_about_lina",
-    "postbacks":[{
-        "action": {
-            
-            "payload": "555" // <---- your payload!
-        }
-    }],
 }

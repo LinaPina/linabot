@@ -6,7 +6,6 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "LEARN ABOUT LINA":"I can tell you a bunch of stuff about Lina. Let me know what's interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nWhen you're ready you can always say 'contact' to talk to Lina. %[Contact](postback:contact)",
     "CHILDHOOD":"LALALALAAL",
-    "CLEAR": "",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, LinaBot is back."
 }

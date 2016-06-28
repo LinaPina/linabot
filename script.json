@@ -6,5 +6,5 @@
     "CHILDHOOD":"Lina has been growing up across cultures, languages and religions. \nBorn in Baku, she did not stay long in Azerbaijan. %[Why not?](postback:why_not?)",
     "WHY NOT?":"![baku](https://raw.githubusercontent.com/LinaPina/linabot/master/img/baku.jpg)\nHer parents moved to Russia to start a PhD and lived in Moscow since. \nAs an immigrant child Lina was not eligible for a free school education. \nHowever, she studied hard and got into one of the most prominent German international schools in Moscow.\nBtw if you ever want to chat about something else, just say 'more'.%[Why German?!](postback:why_german?!)",
     "WHY GERMAN?!":"Dad loves Wagner and working with Germany.\nNot sure what had a more significant impact.\n![wagner](https://raw.githubusercontent.com/LinaPina/linabot/master/img/wagner.jpg)",
-    "MORE":"Ok, here's other stuff to check out. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)",
+    "MORE":"Ok, here's other stuff to check out. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)"
 }

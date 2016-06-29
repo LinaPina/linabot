@@ -20,4 +20,7 @@
     "WHAT'S HAPPENING RIGHT NOW?":"The startup Lokeit she was part of closed its doors due to funding.\nSo she's open to new opportunities.%[The perfect job](postback:the_perfect_job)",
     "RIGHT NOW":"The startup Lokeit she was part of closed its doors due to funding.\nSo she's open to new opportunities.%[The perfect job](postback:the_perfect_job)",
     "THE PERFECT JOB":"What really excites her is helping businesses build products and launch them to market.\nSpecifically she is looking at BizDev and Venture Architecture roles because she wants to build businesses from scratch and develop them.\nAs you can probably tell, she is into the messaging and bot space.%[Contact](postback:contact)"
+    "CONNECT ME": "",
+    "DISCONNECT": "LinaBot is back."
+    
 }
